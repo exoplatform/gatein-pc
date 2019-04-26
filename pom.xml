@@ -33,7 +33,7 @@
 
    <groupId>org.exoplatform.gatein.pc</groupId>
    <artifactId>pc-parent</artifactId>
-   <version>5.1.x-acc210-SNAPSHOT</version>
+   <version>5.1.2-acc210-02</version>
    <packaging>pom</packaging>
 
    <name>GateIn - Portlet Container</name>
@@ -52,7 +52,7 @@
       <connection>scm:git:git://github.com/gatein/gatein-pc.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/gatein/gatein-pc.git</developerConnection>
       <url>https://github.com/gatein/gatein-pc</url>
-     <tag>5.1.2</tag>
+     <tag>5.1.2-acc210-02</tag>
   </scm>
 
    <properties>
